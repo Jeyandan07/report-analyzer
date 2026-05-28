@@ -1,0 +1,7 @@
+ProjectID,ProjectName,WeekEnding,RAG_Status,Completion_Percent,Blockers_Count,Budget_Usage_Percent,Risk_Flag,Update_Summary
+P001,Alpha Protocol,2023-10-27,Green,45,0,42,Low,Development on schedule. API integration completed ahead of time.
+P001,Alpha Protocol,2023-11-03,Amber,48,2,45,Medium,Delayed due to third-party vendor outage. Mitigation plan in place.
+P002,Beta Retargeting,2023-10-27,Red,12,5,15,High,Critical failure in data migration. Resource constraints severe.
+P002,Beta Retargeting,2023-11-03,Red,15,4,18,High,Still blocked. Need executive escalation for resource allocation.
+P003,Gamma Expansion,2023-11-03,Green,88,0,85,Low,Final QA phase. Launch expected next week.
+P004,Delta Analytics,2023-11-03,Green,30,1,25,Low,Steady progress. Front-end team ramped up successfully.

@@ -1,0 +1,11 @@
+Customer ID,Name,Rating,Feedback,Date
+C001,John Doe,5,Excellent service!,2023-10-15
+C002,Jane Smith,3,,2023-10-16
+C003,Bob Johnson,1,Terrible experience,2023-10-17
+C004,Alice Brown,5,Great product!,2023-10-18
+C005,Charlie,4,Wait time was ok,2023-10-19
+C006,,4,Nice staff,2023-10-20
+C007,Mike Ross,2,Product broke immediately,2023-10-21
+C008,Test User,5,Helpful,2023-10-22
+C009,Bot,1,SPAM SPAM SPAM,2023-10-23
+C010,Sarah,4,Good value,2023-10-24

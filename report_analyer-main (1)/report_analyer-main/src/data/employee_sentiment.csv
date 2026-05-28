@@ -1,0 +1,7 @@
+SurveyID,Date,Department,Satisfaction_Score,Work_Life_Balance,Feedback_Comment
+S001,2023-10-25,Engineering,8,4,"Team morale is high, but the sprint velocity expectations are slightly unrealistic."
+S002,2023-10-25,Marketing,6,2,"Too many late night meetings with the overseas team. Feeling burnt out."
+S003,2023-10-26,Sales,9,5,"Love the new commission structure! Great motivation."
+S004,2023-10-27,HR,7,4,"Tools are outdated but the team culture is supportive."
+S005,2023-11-01,Engineering,4,1,"Critical blockers are not being addressed by management. Need help ASAP."
+S006,2023-11-02,Product,8,4,"Good alignment on the roadmap. Excited for the Q4 release."

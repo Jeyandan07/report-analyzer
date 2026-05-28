@@ -1,0 +1,12 @@
+Product Name,SKU,Stock,Price,Reorder Level
+Widget A,WID-001,45,12.50,50
+Widget B,SKU_ERR,-10,18.99,14
+Gadget X,GAD-101,null,22.00,30
+Gadget Y,GAD-102,120,??,30
+Thingamajig,THG-001,8,8.50,10
+Doodad,DOO-999,0,15.75,20
+Gizmo,,5,6.50,15
+Super Widget,WID-999,100,50.00,0
+Failed Item,FAIL-000,ERROR,0.00,0
+New Product,NEW-101,500,1000,50
+Test Item,TST-999,50,5.00,5

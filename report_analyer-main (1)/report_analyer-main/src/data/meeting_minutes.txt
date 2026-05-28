@@ -1,0 +1,22 @@
+Meeting Minutes: Q4 Operations Review
+Date: November 5, 2023
+Attendees: Sarah Connor (Lead), John Smith (Eng), Emily Blunt (Marketing), Mike Ross (Sales)
+
+Agenda:
+1. Review of Q3 Performance
+2. Q4 Roadmap & Targets
+3. Resource Allocation Issues
+
+Discussion:
+- Q3 revenue exceeded targets by 15% due to the new enterprise tier launch.
+- Marketing reported a 20% increase in inbound leads, but Sales is struggling to process them all due to headcount.
+- Engineering is blocked on the legacy database migration. Needs a dedicated DBA.
+
+Action Items:
+- [ ] Sarah to approve the budget for the new DBA hire by Nov 10.
+- [ ] John to provide a timeline for the database migration blockers by Nov 7.
+- [ ] Emily to pause the "Winter Scale" campaign until Sales headcount is resolved (Due: Nov 6).
+- [ ] Mike to update the sales playbook with the new enterprise pricing features by Nov 15.
+
+Next Meeting:
+November 12, 2023 @ 10:00 AM EST
